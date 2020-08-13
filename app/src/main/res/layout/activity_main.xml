@@ -15,6 +15,22 @@
         tools:layout_editor_absoluteX="16dp"
         tools:layout_editor_absoluteY="16dp" />
 
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="187dp"
+        android:layout_height="58dp"
+        android:text="@string/app_name"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="125dp"
+        tools:layout_editor_absoluteY="82dp" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Show in map"
+        tools:layout_editor_absoluteX="132dp"
+        tools:layout_editor_absoluteY="416dp" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
